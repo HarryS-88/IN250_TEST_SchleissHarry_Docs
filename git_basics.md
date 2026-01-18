@@ -5,7 +5,7 @@
 In dieser Testversion habe ich ein neues GitHub-Repository erstellt,
 um den Ablauf von Aufgabe 1 nochmals zu üben.
 
-Der Name des Repositories lautet IN250_TEST_SchleissHarry_Docs.
+Der Name des Repositories lautet IN250_SANDBOX_SchleissHarry_Docs.
 
 ## Dokumentation mit Markdown
 
